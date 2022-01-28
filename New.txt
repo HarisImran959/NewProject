@@ -7,5 +7,4 @@ https://api.instagram.com/oauth/authorize
 https://api.instagram.com/oauth/authorize
   ?client_id={450655983419354}
   &redirect_uri={https://instasdemo.herokuapp.com}
-  &scope=user_profile,user_media
-  &response_type=code
+ 
